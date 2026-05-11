@@ -56,4 +56,4 @@ python src/vulcan_predictor.py
 ```
 
 ---
-*Developed by Yogesh E S - Aerospace AI & Aircraft Maintenance Engineer.*
+*Developed by Yogesh E S - Aeronautical Engineer.*
